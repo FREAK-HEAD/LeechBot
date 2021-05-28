@@ -2,5 +2,4 @@ aiohttp
 aria2p==0.9.1
 hachoir
 Pillow
-pyrogram
 tgcrypto
