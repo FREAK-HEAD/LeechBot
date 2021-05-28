@@ -3,3 +3,5 @@ aria2p==0.9.1
 hachoir
 Pillow
 tgcrypto
+pyrogram
+youtube-dl
