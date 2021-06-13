@@ -3,5 +3,6 @@ aria2p==0.9.1
 hachoir
 Pillow
 tgcrypto
+https://github.com/prgofficial/pyrogram/archive/asyncio.zip
 pyrogram
 youtube-dl
